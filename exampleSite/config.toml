@@ -5,9 +5,9 @@ theme = "hugo-lithium-theme"
 googleAnalytics = ""
 disqusShortname = ""
 
-[permalinks]
-    post = "/:year/:month/:day/:title/"
-    page = "/:title/"
+# [permalinks]
+#     post = "/:year/:month/:day/:title/"
+#     page = "/:title/"
 
 [[menu.main]]
     name = "About"
