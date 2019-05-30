@@ -11,6 +11,10 @@ features = ["blog", "google analytics"]
 min_version = 0.15
 
 [author]
+  name = "HYec"
+  homepage = "https://hyec.me/"
+  repo = "https://github.com/hyec/hugo-theme-lithium"
+
+[original]
   name = "Jonathan Rutheiser"
   homepage = "http://jrutheiser.com/"
-

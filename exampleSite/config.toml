@@ -2,8 +2,11 @@ baseurl = "https://example.org"
 languageCode = "en-us"
 title = "Lithium Theme"
 theme = "hugo-lithium-theme"
-googleAnalytics = ""
+# googleAnalytics = ""
 disqusShortname = ""
+# canonifyURLs = true
+googleAnalytics = "UA-123456"
+
 
 # [permalinks]
 #     post = "/:year/:month/:day/:title/"
